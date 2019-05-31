@@ -1,0 +1,797 @@
+city,country,post_code,safety_flag,state,street,attom_id
+Muskegon,US,49441,False,MI,2134 Lincoln Park Drive,172292268
+Smithville,US,78957,False,TX,300 Affeld Lane,8328494
+Iredell,US,76649-4602,False,TX,115 Private Road 2131,216350563
+Charleston,US,29414,False,SC,7106 Windmill Creek Road,36125343
+Little Elm,US,75068-6309,False,TX,1937 Caddo St,4070570
+Winthrop,US,2152,False,MA,14 Perkins Unit 2,18937891
+Milwaukee,US,53217-4732,False,WI,5774 N Santa Monica Blvd,2316243
+Fort Myers,US,33966-6554,False,FL,10295 Via Colomba Cir,252104243
+Austin,US,78734,False,TX,2914 Chisholm Trail,2085374
+Ardsley,US,10502,True,NY,29 Faith Lane ,2183493
+North Arlington,US,07031-6017,False,NJ,189 Ridge Rd,190775472
+Redlands,US,92373,True,CA,402 E. Redlands Blvd. ,156406760
+Tucson,US,85716-2106,False,AZ,2858 E Alta Vista St,158965013
+Westmoreland City,US,15692,False,PA,1270 Holly Street,216912290
+sacramento,US,95824,True,CA,5982 wilkinson st,2237543
+Hardwick,US,05843-9689,False,VT,81 Hideaway St,231069348
+Covina,US,91722,False,CA,"1220 W San Bernardino Rd, Apt 212",154968150
+Bend,US,97703-8985,False,OR,64863 Glacier View Dr,28868100
+Harwood Heights,US,60706,False,IL,5049 N Octavia Ave,26698343
+Newark,US,19702-6322,False,DE,100 Britain Ct,39608767
+Mobile,US,36695,False,AL,7671 Cameron Ct,202168191
+Beaumont,US,92223,True,CA,851 E 6Th St ,157191303
+Bowie,US,20715-3929,False,MD,2707 Birdseye Ln,150337034
+Naples,US,34109,False,FL,2614 FOUNTAINVIEW CIR apt 204,144964556
+Ellensburg,US,98926-7324,False,WA,6951 Wilson Creek Rd,185234517
+Albany,US,94706,False,CA,1490a Solano Avenue,158069575
+Los Angeles,US,90017,True,CA,800 Wilshire Blvd Suite 200,40219141
+Willis,US,77378-6090,False,TX,11554 White Oak Hills Blvd,41722115
+Naperville,US,60565-6739,False,IL,1718 Beloit Dr,49767243
+Spring,US,77389-2153,False,TX,6867 Adrienne Arbor Dr,217567914
+Atlanta,US,30349-7076,False,GA,5154 Rapahoe Trl,171187901
+Romeoville,US,60446,False,IL,47 Ambassador Avenue,27078215
+Anaheim,US,92807,False,CA,6083 E. Silverspur Trl,155795337
+Cutler Bay,US,33190-1392,False,FL,22760 SW 93rd Ct,248500980
+New York,US,10023,True,NY,61 W 62nd St 17c,37104159
+Valdosta,US,31605-4302,False,GA,2788 Lakeland Hwy,312527365
+Chicago,US,60638-4227,False,IL,6050 S Mobile Ave,143214385
+Hoover,US,35244,False,AL,5725 Park Side Pass,193533529
+Stafford,US,6076,False,CT,115 Conklin Road,53857702
+San Jose,US,95133-1345,True,CA,861 Gilchrist Walkway Apt 3,34960886
+Brownsboro,US,75756,False,TX,9824 FM 607 N,167662291
+Silver Spring,US,20904-1550,False,MD,1309 Mullins St,19048028
+Kailua,US,96734-4334,False,HI,536 Ulumu St,199934428
+New York,US,10002,True,NY,61 Delancey St ,168182214
+Hammond,US,46324,False,IN,1105 Spruce St,39176011
+Jackson,US,8527,False,NJ,247 Leesville Road,153500295
+Saugus,US,01906-1284,False,MA,4 Valeri Dr,195920746
+Colorado Springs,US,80906,False,CO,3710 Hickory Hill Dr,46272610
+Saint Paul,US,55119-5806,False,MN,2688 Linwood Ave E,141514273
+Woodridge,US,60517-3085,False,IL,2287 Country Club Dr,49716842
+Claremont,US,03743-2459,False,NH,32 Goyette Ave,29148535
+Roslyn Heights,US,11577,False,NY,99 Powerhouse Rd. Suite 306,48884528
+GLENDALE,US,11385,False,NY,6407 68TH AVE,168798676
+New York,US,10035-3944,False,NY,113 E 119th St,169574730
+Orange,US,77630,False,TX,1408 South Missouri Street,166560274
+Robbinsville,US,28771,True,NC,140 Duckett Dr,238691832
+Los Angeles,US,90066,False,CA,11822 Avon Way,20557996
+Auburn,US,98002,False,WA,1952 H ST SE,3995867
+Rancho Cordova,US,95670,True,CA,11379 Pyrites Way Suite A,157832897
+Kyle,US,78640-3995,False,TX,190 Williamson Rd,164755179
+Silver Spring,US,20910-4983,False,MD,8021 Georgia Ave,31493714
+Miamisburg,US,45342-5209,False,OH,2510 Cinnamon Ridge Ct,41251860
+SOUTHWEST RANCHES,US,33331,False,FL,17240 SW 66 ST.,162618177
+Charlotte,US,28205,False,NC,1101 Hawthorne Lane #149,48243155
+Temecula,US,92590,True,CA,27349 Jefferson Ave #209,223117889
+Salt Lake City,US,84109-1320,False,UT,2425 E 2100 S,3961242
+Mill Valley,US,94941,False,CA,339 Cardinal ct,157516580
+Moville,US,51039,False,IA,403 South St,153150034
+O Fallon,US,62269-7149,False,IL,1132 Tazewell Dr,1467790
+Palmdale,US,93550-5520,False,CA,37848 28th St E,154469556
+Chicago,US,60628-1519,False,IL,9853 S Ingleside Ave,717236
+Brentwood,US,94513-5678,False,CA,784 King Palm Ln,246080819
+Denton,US,76205-5112,False,TX,1263 Dallas Dr,2433049
+Houston,US,77082-5659,False,TX,3707 Shadow Wick Ln,50717624
+Chicago,US,60623-3902,False,IL,2417 S Central Park Ave,152186292
+Marcola,US,97454-9726,False,OR,94671 Johnson Rd,28892256
+Colorado Springs,US,80908,False,CO,7952 Hardwood Circle,324153616
+Dallas,US,75228-4726,False,TX,2839 Meadow Way Ln,15393557
+San Antonio,US,78247-4661,False,TX,5351 Mountain Vista Dr,44082655
+McKinney,US,75070-2010,False,TX,7005 Dove Tail Dr,164905441
+Tampa,US,33625-1959,False,FL,14925 Redcliff Dr,49344230
+Los Angeles,US,90034-1618,False,CA,1968 S Crescent Heights B,14626763
+Glen Allen,US,23059,False,VA,3036 Hunton Cottage Ln.,248747592
+Tuscaloosa,US,35406-1499,False,AL,5401 Madera Dr,190822204
+Markham,US,60428,True,IL,3715 Arthur Ter,23866656
+Kissimmee,US,34743-6038,False,FL,2633 Walden Ct,17572120
+Orange,US,07050-2302,False,NJ,460 Conover Ter,205138697
+Charlotte,US,28277-4524,False,NC,6209 Seton House Ln,176878744
+Bloomington,US,61704-8180,False,IL,20 Rounds Rd,176028636
+Las Vegas,US,89143-5452,False,NV,9025 Ochoa St,4584650
+Hewlett,US,11557,False,NY,1183A Broadway ,169432144
+Menifee,US,92584,False,CA,28594 North Port Lane,20995120
+Aurora,US,60502,False,IL,2255 Hudson Circle,11624284
+Lehi,US,84043,False,UT,1643 North 2640 West,151371047
+Brooklyn,US,11206,True,NY,82 Graham Ave ,168232328
+Granada Hills,US,91344-4124,False,CA,17177 Donmetz St,25982988
+Brooklyn,US,11212-2035,False,NY,229 E 94th St,4615505
+Kirkland,US,98033,False,WA,12340 NE 115th place,151106235
+Tulsa,US,74114-2315,False,OK,5801 E 22nd St,198024443
+Hampstead,US,3841,False,NH,562 Main Street,16933035
+Easley,US,29640-9697,False,SC,238 Hallmark Cir,144355039
+Coconut Creek,US,33073-4146,False,FL,3488 Coco Lake Dr,148004652
+Lake View Terrace,US,91342,False,CA,11234 Sunburst st,29652037
+Henderson,US,89012,False,NV,1480 Paseo Verde Pkwy #3107,221651169
+San Francisco,US,94114,False,CA,275 Grand View Avenue,155997524
+Lake Zurich,US,60047,False,IL,950 Cedar Creek Dr,175600716
+San Francisco,US,94107,False,CA,"788 Harrison St, #804 ",311532495
+La Habra,US,90631-3231,False,CA,1861 Brookdale Ave,146321834
+Sanford,US,27332-8817,False,NC,3604 Baker Dr,219862749
+Alexandria,US,71302-2718,False,LA,4320 Collins Ave,213589531
+Franklin,US,37069-4165,False,TN,117 Cottonwood Cir,203740471
+Orland Park,US,60462-3047,False,IL,10223 Hyacinth Dr,2001077
+Anchorage,US,99503-6981,False,AK,1205 W 47th Ave,202916015
+Baldwin Park,US,91706,False,CA,15240 Nubia Street,51948448
+BROOKLYN,US,11249,False,NY,110 KENT AVE ,1499876
+Coraopolis,US,15108-9005,False,PA,2106 Farm View Dr,179156960
+RIDGEWOOD,US,11385,False,NY,311 SAINT NICHOLAS AVE ste c,209407618
+Ashland,US,44805,False,OH,1036 County Road 1754,213372062
+Austin,US,78751-1843,False,TX,5200 N Lamar Blvd Apt M304,165215532
+Santa Barbara,US,93108,False,CA,1187 Coast Village Road,156346735
+Port Orange,US,32129,False,FL,1307 Alcorn Road,144844812
+Stone mountain,US,30088,False,GA,1630 golf overlook,23725504
+Brodhead,US,53520,False,WI,N2320 Tenny Road,195063491
+Fountain Valley,US,92708,False,CA,8612 El Rancho Ave,39171620
+Prior Lake,US,55372,False,MN,17195 Langford Blvd,146901795
+Daly City,US,94014-1600,False,CA,174 Linda Vista Dr,156198432
+Troy,US,62294,False,IL,425 Briar Creek Road,175208947
+Kalaheo,US,96741-9359,False,HI,3265 Wawae Rd,45025749
+Los Altos,US,94024,False,CA,10971 Terry Way ,43069969
+Keaau,US,96749,False,HI,15-1506 3rd Ave,198746968
+Morristown,US,7960,True,NJ,63 Constitution Way ,48541826
+Fort Worth,US,76106-7105,False,TX,2825 Ellis Ave,166125633
+Jersey City,US,7306,False,NJ,25 SENATE PL ,203792967
+Cincinnati,US,45219,False,OH,2300 Auburn Ave,204606565
+Summerville,US,29483-8193,False,SC,273 Hundred Oaks Pkwy,152069193
+Albany,US,97321,False,OR,2426 Northwest Sunny Lane,220213307
+San Jose,US,95125-1826,False,CA,1891 Bird Ave,157619953
+Lithonia,US,30038,False,GA,3697 Shady Maple Drive,31205964
+Fishkill,US,12524,False,NY,1004 Main St Suite 1 ,170838616
+Ogdensburg,US,13669,True,NY,54 East River Street ,46869553
+Pittsburgh,US,15211,False,PA,"656 Boggs Avenue, Floor 2",16631441
+Toledo,US,43614,False,OH,4232 Elmway Dr,9802580
+Sandyston,US,7827,False,NJ,9 Cemetery Road,32533071
+Seattle,US,98125-4901,True,WA,11721 5th Ave NE,54551212
+Southgate,US,48195-3820,False,MI,15251 Windemere St,1670499
+Mechanicville,US,12118,False,NY,4 Danforth Road,36827906
+Ferdinand,US,47532-9375,False,IN,2210 Northview Dr,219201393
+Davie,US,33317,False,FL,2102 Southwest 72nd Avenue,49406875
+Granite Shoals,US,78654-2548,False,TX,203 W Bluebriar Dr,213737718
+East Orange,US,07018-1479,False,NJ,240 S Harrison St,325329555
+Boise,US,83704,True,ID,3570 Pepperwood Dr,147030957
+FARMINGDALE,US,11735,False,NY,60 CONKLIN ST ,9509773
+Alvin,US,77511,False,TX,5250 lauren lane,28804615
+Compton,US,90220,False,CA,1015 w 152nd st,17797939
+Carmel Valley,US,93924,True,CA,PO Box 409 ,223493178
+Highland,US,84003-9264,False,UT,10512 N 6150 W,183630572
+Palatine,US,60074,False,IL,1431 port o call,38884418
+Ludlow,US,41016-1327,False,KY,216 Deverill St,7791638
+Fair Oaks,US,95628,False,CA,8326 Willowdale Way,52222902
+Germantown,US,38139,False,TN,9225 Forest Hill Lane,196662695
+Buckeye,US,85326-6041,False,AZ,19176 W Woodlands Ave,159157614
+Saint Paul,US,55106-2005,False,MN,1220 Earl St,42555085
+GLENDALE,US,11385,False,NY,6638 CENTRAL AVE,169768276
+San Francisco,US,94110,False,CA,3180 18th St Suite 200 ,155756948
+Turlock,US,95382,False,CA,4234 Marston Ct,29646030
+Cedar Hill,US,75104-2895,False,TX,401 Vincent St,8779620
+Beaumont,US,77703,True,TX,1125 Wiess St,167682485
+Byron Center,US,49315-7932,False,MI,7939 Brewerwoods Ct SE None,172938236
+San Francisco,US,94131,False,CA,5696 Diamond Heights Blvd ,40519772
+Placerville,US,95667,False,CA,1161 Madrone Ln,49072430
+Tucson,US,85710,True,AZ,8731 East Old Spanish Terrace Drive Tucson ,151113878
+Aurora,US,80011,False,CO,13650 East Colfax Avenue,253157145
+Leavenworth,US,66048,False,KS,320 S 7th Street,212830831
+West Palm Beach,US,33401-8488,False,FL,750 Millbrae Ct Unit 7,31293355
+Cedar Grove,US,7009,False,NJ,65 Hillsdale Rd ,203776254
+Ocean Springs,US,39564-3326,False,MS,1315 Sussex Dr,197088063
+Dade City,US,33525-8101,False,FL,34832 Green Steele Road,163506286
+NEW YORK,US,10022,True,NY,9 EAST 53TH STREET 5FL ,170727474
+Encino,US,91316-1736,False,CA,17320 Burbank Blvd,154401034
+Rancho Mirage,US,92270,True,CA,76 Royal saint Georges Way ,40293374
+WEST BLOOMFIELD,US,48324,False,MI,2956 GREENBROOKE LANE,52259149
+New York,US,10001,False,NY,6 W 28th St ,169559231
+Webster,US,14580-1821,False,NY,1101 Parkside Dr,168355898
+Jersey City,US,07306-7004,False,NJ,232 Freeman Ave,40005917
+Colorado Springs,US,80920,False,CO,2260 Silkwood Dr,14356016
+Gretna,US,70056,False,LA,806 Sheree Lynn Ct.,200616455
+Stockton,US,95206-4800,False,CA,2218 Port Trinity Cir,51321615
+Leesburg,US,20175-8972,False,VA,601 Patrice Dr SE,151458027
+Grand Rapids,US,49505,False,MI,1509 Diamond Ave. NE,1102063
+Ithaca,US,14850,True,NY,139 E King Rd ,170065508
+West Bloomfield,US,48322,False,MI,7418 Village Square Dr,49891655
+Okmulgee,US,74447,False,OK,1123 E 8th st,195014760
+New York,US,10001,True,NY,150 W 28th St Ste 801,170828629
+Catlin,US,61817-9605,False,IL,105 Byerly St,217779424
+San Jose,US,95119,True,CA,203 Castillon Wa ,10134431
+Sacramento,US,95827,False,CA,9622 Oaken Bucket Ct.,40443458
+San Diego,US,92130,False,CA,4140 Sturgeon Ct ,158085906
+San Francisco,US,94110,False,CA,930 Alabama Street ,28555244
+Ashland,US,44805,False,OH,891 County Road 1904,237079396
+Summerton,US,29148-7897,False,SC,1379 Ralph Bell Rd,7886743
+Burleson,US,76028-1587,False,TX,301 Pin Cushion Trl,249607285
+Kissimmee,US,34758-2350,False,FL,2506 Addison Creek Dr,312223113
+Toms River,US,08753-6640,False,NJ,55 Terrace Ave,224972479
+Baytown,US,77521,False,TX,5306 Fairtide Drive,41719682
+Morganton,US,28655-4327,False,NC,111 Harris Dr,140479158
+New York,US,10022,True,NY,120 E 56th St Rm 740,169567698
+Chicago,US,60625-6405,False,IL,4607 N Monticello Ave,7746645
+Charlotte,US,28278-8007,False,NC,9026 Seamill Rd,15821198
+Bluemont,US,20135,False,VA,34455 Snickersville Turnpike,192706545
+Pueblo,US,81005-1031,True,CO,3 Twilight Ln,4300587
+Riverside,US,92504,False,CA,16781 Van Buren Blvd Ste 1A ,156474023
+Riverside,US,92507,False,CA,2027 Mondello Court,14132885
+Middle Village,US,11379,False,NY,8424 Eliot Ave,146208368
+New York,US,10017-1533,False,NY,249 E 48th St,170392945
+Cape Coral,US,33991-3441,False,FL,223 SW Trafalgar Pkwy,20352019
+Norwich,US,13815-1219,False,NY,99 Canasawacta St,168757150
+Oregon City,US,97045,False,OR,16151 S Sandalwood Rd,193863012
+Norwich,US,13815,False,NY,15 Maydole St ,48809031
+Indianapolis,US,46201-2476,False,IN,908 N Rural St,433765
+San Antonio,US,78213-3333,False,TX,232 Herweck Dr,33580240
+Phoenix,US,85037-5032,False,AZ,10001 W Colina Ct,23320386
+Shakopee,US,55379,False,MN,525 4th Avenue West,25516037
+Bronx,US,10473-4413,False,NY,875 Morrison Ave,170474673
+Los Angeles,US,90049,False,CA,11777 San Vicente Blvd Ste 702,52091832
+South Holland,US,60473-3314,False,IL,310 E 171st Pl,26248021
+New Lenox,US,60451-3816,False,IL,732 Princeton Ln,24006284
+Vidor,US,77662,True,TX,1146 W Village St,166565331
+Huntsville,US,35801,False,AL,201 Jefferson St. NW Apt. 538,199767607
+Roanoke,US,24014,False,VA,2717 Sample Ave,194208279
+Weehawken,US,7086,False,NJ,1300 Avenue at Port Imper,228675588
+Overland Park,US,66210,False,KS,11200 Benson Street,21234739
+Phoenixville,US,19460,False,PA,1101 Almond Drive,37344077
+Stonewall,US,71078-9654,False,LA,129 Wentz Dr,250647844
+Riverside,US,92508,False,CA,19555 John F Kennedy dr,16431796
+Baker City,US,97814-1701,False,OR,2615 12th St,211711650
+Honolulu,US,96817-5345,False,HI,60 N Nimitz Hwy Apt 2708,190758558
+Fallon,US,89406,False,NV,5546 Alcorn Road,34728258
+Monroe,US,98272,False,WA,15909 238th St Se,185185300
+Milton,US,32571-8364,False,FL,4517 Amblewood Ct,186133000
+Waterloo,US,62298,False,IL,700 South Market Street,45122325
+San Antonio,US,78260,False,TX,2230 Estate Gate Drive,47272323
+Edgefield,US,29824,False,SC,6 Orchard Circle,230267940
+Baton Rouge,US,70812,False,LA,7166 Dalark Dr.,198780247
+Stillwater,US,55082-4529,False,MN,559 Newman Trl,150524838
+Rochester,US,14607,True,NY,"274 Goodman Street North, Suite B136 ",169176504
+Allen,US,75002-4070,False,TX,547 Cumberland Dr,50508792
+New York,US,10002-3529,False,NY,60 Pitt St,168011559
+Toledo,US,43611,False,OH,2636 122nd st,27440402
+Taberg,US,13471-3042,False,NY,10240 Point Rock Rd,168186953
+Silver Spring,US,20906,False,MD,1902 Longmead Rd,52338621
+Floresville,US,78114-4181,False,TX,1101 County Road 134,164969704
+Forney,US,75126,False,TX,217 Independence Tr,28415791
+Indianapolis,US,46235-1167,False,IN,9612 Pepperidge Dr,42523753
+Washington,US,20017-3806,False,DC,1324 Michigan Ave NE,197169914
+Somerville,US,8876,True,NJ,"50 Division Street, Suite 501 ",32479293
+Lemon Grove,US,91945,False,CA,6863 Cedral Place,22581455
+Peachtree Corners,US,30092-2352,False,GA,3866 Grand Forest Dr,171471659
+Lakeport,US,95453,False,CA,322 15th St,30467447
+Pearland,US,77581-2461,False,TX,1109 Danbury Ct,36419685
+Windermere,US,34786-7331,False,FL,6318 Lenox Mill Dr,43391685
+Bowie,US,20721-1824,False,MD,707 Faraway Ct,143855345
+Hudson,US,54016,False,WI,629 Countryside Lane,145893492
+RENO,US,89502,False,NV,438 E.TAYLOR STREET,37982413
+Delmar,US,12054,False,NY,271 Delaware Ave ,141813447
+San Jose,US,95121-1709,False,CA,1543 Barberry Ct,3042122
+St Pete Beach,US,33706-2436,True,FL,Beau Monde Condo 4950 Gulf Blvd Apt 705,163615483
+Asheville,US,28803-8542,False,NC,357 Rose Hill Rd,176380857
+Randolph,US,5060,False,VT,1069 Steele Hill Road,252835464
+Romeoville,US,60446-1729,False,IL,215 Healy Ave,144430507
+Tallahassee,US,32303,False,FL,2834 Duffton Loop,9773422
+Windermere,US,34786-6331,False,FL,7504 Bentonshire Ave,143103434
+Miami Beach,US,33139-8330,False,FL,1020 Meridian Ave,203833310
+Queens Village,US,11427-2244,False,NY,8850 Francis Lewis Blvd,48864128
+Brooklyn,US,11201,True,NY,"68 Jay St, #201 ",168432560
+Galt,US,95632-8330,False,CA,12201 Boessow Rd,155910664
+Knoxville,US,37902,False,TN,200 W Jackson Ave. #607,29250705
+Castro Valey,US,94552,False,CA,18831 Masterson Place,156080740
+Milford,US,01757-2459,False,MA,12 W Walnut St Apt 6,190292695
+Pembroke Pines,US,33023-1065,False,FL,600 SW 71st Way,160659180
+Jersey City,US,7302,False,NJ,119 Grand St Apt 1,15133192
+Bethlehem,US,18017,False,PA,3418 Park Pl,44202475
+Dalton,US,44618,False,OH,2525 Wenger S Rd,182708344
+Greenwood,US,46143-7190,False,IN,2811 Shadwell Pl,53337523
+Auburndale,US,33823,False,FL,2525 Edmond Circle,160219978
+Sacramento,US,95825,True,CA,2410 Fair Oaks Blvd. Ste. 170 ,156915286
+Beaverton,US,97007,False,OR,8560 SW 147th Terrace #104,202653393
+Decatur,US,30034,False,GA,2945 Pheasant Dr,22421809
+Orange Park,US,32073-2544,False,FL,335 Noel Rd,153012527
+Lahoya,US,92037,True,CA,7660 Fay Ave Ste H Box 268,156777902
+Amelia Island,US,32034-5407,False,FL,5451 Florence Point Dr,245601423
+Modesto,US,95355-1438,False,CA,2113 Sunny Oak Ct,27156749
+Compton,US,90220,False,CA,1107 S. Hillford Ave,51944302
+Fort Worth,US,76244-6144,False,TX,4956 Giordano Way,164708621
+Sykesville,US,21784-9616,False,MD,4305 Morris Dr,28184176
+Fresh Meadows,US,11365-1935,False,NY,6127 167th St,170484293
+Kansas City,US,64113-1135,False,MO,600 W 59th St,188431298
+Nanuet,US,10954,True,NY,159 Route 304 2nd floor  ,169481900
+San Diego,US,92108,False,CA,8880 Rio San Diego Drive Suite 800,156829186
+Lake Worth,US,33463-8234,True,FL,6172 Shadow Tree Ln,21200776
+Franklin,US,46131-8319,False,IN,2080 Fairway Lakes Dr,149608991
+Houston,US,77047-4121,False,TX,13715 Merida Dr,241823047
+Annapolis,US,21403-4243,False,MD,2646 Ogleton Rd,39346783
+Astoria,US,11105,False,NY,29 -09 Ditmars Blvd ,168008899
+Dumfries,US,22026-2179,True,VA,16957 Toms River Loop,9304255
+port st. lucie,US,34987,False,FL,10319 Sw Fernwood Avenue,229267979
+Orangevale,US,95662-2536,False,CA,7420 Telegraph Ave,19848863
+Elgin,US,78621-3413,False,TX,121 Jackson St,211936275
+Brooklyn,US,11215,True,NY,441 7th Avenue ,52870037
+NORTH TONAWANDA,US,14120,True,NY,3587 KELSEY LN ,37161513
+Sugar Land,US,77479-5837,False,TX,726 Johnson Ln,41527978
+Fresno,US,93722-7331,False,CA,2360 N Lodi Ave,157321792
+Harrisburg,US,28075-9647,False,NC,8430 Chestnut Oak Ct,29773353
+Cary,US,60013,False,IL,643 Cary Woods Cir,153388217
+Lakewood,US,98498-5949,False,WA,7905 Leschi Rd SW,185614718
+Sun Prairie,US,53590,False,WI,3061 Pleasant St,193485842
+South Gate,US,90280-6732,False,CA,10353 Alexander Ave,22958565
+Orlando,US,32817-2308,False,FL,3215 Tcu Blvd,4332015
+Palo Alto,US,94303,False,CA,740 Seminole Way,157575449
+North Haledon,US,7508,True,NJ,88 Motta Avenue,19941543
+North Chesterfield,US,23237-4306,False,VA,4100 Laurel Oak Rd,202246634
+Gilmanton Iw,US,03837-4822,False,NH,419 Mountain Rd,29081622
+Harvard,US,60033,False,IL,7809 Commercial St,145202173
+Saint Matthews,US,29135-8059,False,SC,168 Raymond Ct,213784963
+Pasadena,US,77505-5464,False,TX,5103 Bayfair St,4427184
+Oakley,US,94561-5031,False,CA,2569 Mariner Rd,157243892
+Hauppauge,US,11788-4418,False,NY,41 Grissom Way,170312732
+FORT COLLINS,US,80525,False,CO,6951 Aruba Ln,14345795
+Cary,US,27518,False,NC,101 Gentlewoods Dr Cary Nc 27518,31338434
+Lawndale,US,90260-3014,False,CA,4125 W 163rd St,146971015
+Elmhurst,US,60126,False,IL,15w732 Lexington Street,175484166
+Turlock,US,95382,False,CA,2930 Geer Rd PBM 136A,207466936
+Alabaster,US,35007-5163,False,AL,124 Park Place Cir,15967927
+Clifton,US,38425-5220,False,TN,4039 Morrison Creek Rd,245310023
+Eastpoint,US,32328,False,FL,333 E Gulf Beach Dr Apt 3,161999203
+Scotts Valley,US,95066,False,CA,"5523 Scotts Valley Drive, STE 106 ",156446406
+Munford,US,38058-6014,False,TN,432 Giltedge Rd,53244822
+Woodstock,US,30189,False,GA,1034 Legacy Walk,12950742
+Apex,US,27502,False,NC,505 S Hughes St.,23907235
+La Grange,US,60525-2854,False,IL,1037 S Madison Ave,38849395
+Memphis,US,38125-3596,False,TN,7552 Sandy Brook CV,9218214
+Belleville,US,07109-2711,False,NJ,67 Floyd St,188855812
+Garland,US,75043,False,TX,1720 hill creek drive,22330095
+Spring,US,77380-1208,False,TX,3202 Gary Ln,17332121
+Dallas,US,75204-4420,False,TX,4306 Munger Ave,165126244
+VENTURA,US,93003,True,CA,2220 EASTMAN AVE STE 106 ,158163280
+Arlington,US,76017-2334,False,TX,3809 Coronet Ln,24618143
+Newark,US,19713,False,DE,24 Donaldson Drive,39657867
+Scotch Plains,US,7076,False,NJ,2560 US Hwy 22 Suite 288 ,199063305
+Brooklyn,US,11209-5618,False,NY,8805 3rd Ave,168240879
+NACOGDOCHES,US,75965,False,TX,4541 NE STALLINGS DR,215287004
+Zebulon,US,27597-2859,False,NC,109 Southland Dr,11702777
+Springfield,US,65807,False,MO,4120 s hillcrest Ave,188970872
+Spring City,US,37381,False,TN,2718 Old Stage Road,4112990
+Midlothian,US,60445-3344,False,IL,14924 Terrace Ln,69566
+Brooklyn,US,11222,False,NY,959 Lorimer St Apt 2,17840780
+Sauk Centre,US,56378,False,MN,232 4th st N,214495008
+Katy,US,77494-4385,False,TX,24806 Deep Coral Ct,29039124
+Tucson,US,85746-7977,False,AZ,3510 W Avenida Vera Cruz,10104423
+San Dimas,US,91773-2786,False,CA,203 N San Dimas Canyon Rd,249230697
+Santa Rosa Beach,US,32459,False,FL,31 Whispering Pines Court,8700142
+Buffalo,US,14224-4354,False,NY,69 Camelot Dr,168140226
+North Charleston,US,29405-3214,False,SC,4497 Summey St,249456023
+San Antonio,US,78222-1329,False,TX,2431 Ravina St,166643581
+Caledonia,US,39740-9117,False,MS,215 Evergreen CV,219829450
+Ambridge,US,15003-1765,False,PA,947 Walnut St,179713685
+Austin,US,78704-6508,False,TX,1401 Saint Edwards Dr,165416296
+New York,US,10018,True,NY,"520 Eighth Avenue, #312 ",169558964
+Bryan,US,77802,False,TX,2701 Pinehurst Circle,54593401
+Orlando,US,32825-3791,False,FL,613 Glastonbury Dr,164198395
+Columbia,US,29203-6736,False,SC,50 Guernsey Dr,188559340
+Temecula,US,92591-3757,False,CA,29605 Solana Way,30660329
+Philadelphia,US,19140-1118,True,PA,4541 N Carlisle St,15174599
+Miami Shores,US,33150,False,FL,94 nw 94th street,146009335
+San Diego,US,92108,True,CA,"3443 Camino Del Rio, Suite 326 ",156846283
+Los Angeles,US,90037,False,CA,905 west 53rd st,49112182
+Albuquerque,US,87108-2980,False,NM,544 Madeira Dr SE,144397982
+Schuyler Falls,US,12985,False,NY,547 Peasleeville Rd,145419243
+Manchester,US,06042-3614,False,CT,68 Jensen St,200060167
+San Francisco,US,94109,True,CA,635 Ellis St Apt 401,51108838
+West Des Moines,US,50266,False,IA,8302 Westown Parkway 3109,199565503
+Hooksett,US,3106,True,NH,168 Hackett Hill Road,200407681
+Taylor,US,48180,False,MI,21700 Champaign,42534023
+New Fairfield,US,6812,False,CT,26 Short Woods Road,187594128
+Culver City,US,90230,False,CA,5855 Green Valley Cir Ste 308,154505066
+Mesa,US,85205-7823,False,AZ,108 N GREENFIELD RD,158734280
+Brick,US,08724-4619,False,NJ,517 Nicholas Rd,32554666
+Vancouver,US,98684-3793,False,WA,700 NE 173rd Ave,48039972
+Chipley,US,32428-3865,False,FL,3073 Bonnett Pond Rd,163931444
+Uniontown,US,15401-8002,False,PA,110 Daniel Dr Suite 9,179257949
+Macomb,US,48042-6223,False,MI,18764 Livingston Dr,552050
+San Jose,US,95132,False,CA,2486 Battaglia Circle,23717841
+Northwood,US,43619-2207,False,OH,5407 Woodville Rd,50209515
+Wausau,US,54403,False,WI,116 Fountain Hills Blvd,34460927
+Torrance,US,90502,True,CA,941 West Carson Street,26948509
+Sarasota,US,34240,False,FL,3711 eagle hammock,145309191
+Carrollton,US,23314,False,VA,304 founders pointe trail,210651436
+Fort Myers,US,33905-4602,False,FL,1664 Heiman Ave,26130198
+Olean,US,14760,False,NY,188 N. Union St ,28164051
+Bulverde,US,78163,False,TX,740 Persimmon Hl,28065379
+Odenton,US,21113,False,MD,218 Nob Hill Way,16225782
+Canton,US,48187,False,MI,7715 Provincial Road,172455328
+Newport Beach,US,92663,True,CA,3020 Newport Blvd ,147641508
+Weatherford,US,73096-4720,False,OK,524 W Arapaho Ave,250270649
+Haddonfield,US,8033,False,NJ,403 N Haddon Ave ,204155240
+Avon,US,46123-6981,False,IN,8123 Oriole Point Dr,201938559
+Algonac,US,48001-1150,False,MI,376 Virginia Ave,48125326
+S Ozone Park,US,11420,True,NY,126-18 Rockaway Blvd ,48859719
+Aliso Viejo,US,92656-1846,False,CA,31 Blue Jay Dr,157776569
+Duncan,US,85534,False,AZ,250 Leah Ln,148454667
+Milwaukee,US,53209-5824,False,WI,4450 N 42nd St,145978452
+Washington,US,20019-1416,False,DC,316 36th St NE,25677665
+Westborough,US,1581,False,MA,153 Milk Street,252833648
+San Francisco,US,94134,False,CA,136A Leland Avenue,145952628
+Lexington,US,78947-9402,False,TX,216 Hale St,210196327
+West covina,US,91791,False,CA,909 s Shasta st,3239728
+Port Saint Lucie,US,34952,False,FL,1999 MacQuillen Road,4357241
+San Francisco,US,94117,False,CA,10 Clayton St ,216965663
+League City,US,77573,False,TX,4501 Weathersfield Ct.,36370768
+Fairfax,US,22031-2050,False,VA,9057 Loreleigh Way,142397310
+Tacoma,US,98408-3435,False,WA,1132 S 60th St,15267605
+Dana Point,US,92629,False,CA,33771 Bayside Lane,147672947
+Portland,US,97206,False,OR,6208 SE 42nd Ave,41263889
+San Francisco,US,94107,False,CA,2030 3rd St Unit 16,40616059
+Miami,US,33186-7330,False,FL,9738 SW 138th Ave,46393219
+Berkeley,US,94710,False,CA,916 Bancroft Way ,157674775
+Nipomo,US,93444,False,CA,665 Sweet Donna Place,17405232
+Chattanooga,US,37421,False,TN,9425 Shadow Point Circle,195520689
+New Windsor,US,12553-4935,False,NY,3409 Red Coat Dr,37906420
+Westfield,US,7090,False,NJ,302 South Avenue East ,198310175
+West Chazy,US,12992,False,NY,257 Recore Rd,240370510
+Euless,US,76040-4980,False,TX,1307 Toplea Dr,166007870
+Dexter,US,48130-9583,False,MI,7045 Toma Rd,172036523
+La Mirada,US,90638-4935,False,CA,14734 Rayfield Dr,154934698
+San Diego,US,92124-2233,False,CA,4370 Calle de Vida,156372106
+Sanford,US,27330-4528,False,NC,508 Midland Ave,219903131
+Livonia,US,48152,False,MI,19759 Inkster Road,18150351
+Colchester,US,05446-6342,True,VT,1161 Prim Rd Apt 102,205921538
+Wichita,US,67230,False,KS,548 N Sagebrush St,148033090
+Oklahoma city,US,73114,False,OK,808 nw 121st terr,52428885
+Philadelphia,US,19139,False,PA,120 N Dewey St,24763711
+Princeton,US,8542,True,NJ,"182 Nassau St, Suite 201 ",205156400
+Portland,US,97202-5603,False,OR,6644 SE 16th Ave,252519140
+Long Beach,US,90840,False,CA,815 Loma Ave Apt. 14,154690233
+Hockessin,US,19707,False,DE,443 Stella Drive,191021908
+Miami,US,33167-2130,False,FL,12235 NW 18th Pl,145743825
+Irwin,US,15642-7101,False,PA,162 Wendel Rd,581511
+BROOKLYN,US,11201,False,NY,261 HENRY ST ,168207045
+Sumter,US,29150-4633,False,SC,2180 Water Song Run,231113388
+Brooklyn,US,11231,False,NY,Attn:  Dmitry Dragilev 68 3rd St,168434568
+Cottonwood,US,96022-7902,False,CA,18955 Yawl Pl,146139748
+Tonganoxie,US,66086-9333,False,KS,109 Bradley Ct,212338038
+Los Angeles,US,90044,False,CA,11015 S Budlong Ave,154821630
+Basking Ridge,US,07920-2757,False,NJ,47 Alexandria Way,1421193
+Bowie,US,20716,False,MD,2910 Apple Green Lane,50075609
+San Antonio,US,78245-2744,False,TX,9630 Acadian Dr,41402995
+Kingsport,US,37660,False,TN,429 Rich Drive,200611137
+Brooklyn,US,11235,False,NY,2580 Ocean Parkway,24292392
+Eureka,US,63025-3180,False,MO,6 Trail Ridge Rd,22162936
+Clifton Heights,US,19018,False,PA,5211 North Springfield Road,44324464
+Sauk village,US,60411,False,IL,22437 theisen ave,175435163
+Albany,US,12207,True,NY,5 Olive Tree Lane ,170689162
+Connelly Springs,US,28612-7931,False,NC,131 Lucas St,228792646
+Joliet,US,60435-4309,False,IL,1103 Vine St,233800025
+Sunnyvale,US,94089,False,CA,1250 Borregas Ave ,249200965
+Brooklyn,US,11212,False,NY,190 E 98th St ,45608305
+Niles,US,60714,False,IL,7131 N Riverside Dr,150478386
+Los Angeles,US,90025,False,CA,10351 Santa Monica Blvd. Ste 202 ,154582417
+AVENTURA,US,33180,False,FL,20191 E Country Club Dr Apt 1410,29677636
+Albany,US,12207,False,NY,109 State Street ,32536914
+Elnora,US,47529-5001,False,IN,16058 N State Road 57,215666716
+Langley,US,74350,False,OK,188 S Hwy 82a,250609850
+Fayetteville,US,37334-6833,False,TN,513 Old Lincoln Rd,195162189
+Brooklyn,US,11206,False,NY,249 Graham Ave ,48777309
+Waldorf,US,20603-4418,False,MD,6816 Jackrabbit Ct,2267356
+Pitcairn,US,15140-1011,False,PA,1115 North Ave,4963576
+Perris,US,92571-7473,False,CA,3926 Barbury Palms Way,9089424
+Ludowici,US,31316-0000,False,GA,404 poole rd,216569571
+Round Rock,US,78681,False,TX,8352 Fern Bluff Avenue,152204059
+Belmar,US,7719,False,NJ,704 18th Avenue,3569689
+Austin,US,78746-2407,True,TX,2400 Camino Alto,166014371
+Massena,US,13662-2552,False,NY,1 Linden St,46661436
+Tujunga,US,91042,True,CA,6708 Foothill Blvd Ste 106,154438849
+Mount Pleasant,US,29429-4976,False,SC,2036 Welsh Pony Dr,252848692
+Carrollton,US,75010,False,TX,4025 Huffines Boulevard,209418786
+Red Bank,US,7701,False,NJ,63 S Street ,152717650
+Redford,US,48240-1360,False,MI,19313 Dalby,17984443
+Hamden,US,06518-2616,False,CT,164 Broadway,191630805
+Del Valle,US,78617-3499,False,TX,12021 Foley Dr,44677372
+New Haven,US,48048-1978,True,MI,59589 W Brampton St,7543234
+Palmdale,US,93551-4205,False,CA,38326 5th Pl W,154468799
+bronx,US,10473,False,NY,2340 quimby ave,23749639
+Columbia,US,21045-4333,False,MD,9544 Saddlebag Row,198756190
+Valdosta,US,31605,False,GA,4025 Glen Laurel Drive North,207835765
+Fulton,US,20759,False,MD,7722 Tilghman St,28227963
+Greenville,US,29609-6900,False,SC,11 Creek View Ct,36370352
+Richmond,US,77406-9673,False,TX,1800 Pecan Lake Dr,165760720
+Fremont,US,94536-4844,False,CA,37075 Maple St,26498208
+Egg Harbor City,US,8215,False,NJ,244 Cincinnati Avenue,144157762
+Gainesville,US,20155-4408,False,VA,14260 Hunters Run Way,17558823
+Coral Springs,US,33071-7153,False,FL,8231 NW 8th Pl,160613591
+Chino Hills,US,91709-7876,False,CA,5058 Stone Ridge Dr,158092018
+Merced,US,95340,False,CA,731 E Yosemite Ave Ste B # 165,22382064
+Avon,US,46123,False,IN,7784 Cobblesprings,203169857
+Half Moon Bay,US,94019,False,CA,18 Ashdown Pl ,40558785
+Dallas,US,75214,False,TX,4715 Ridgelawn Drive,165162590
+Benton,US,72019,False,AR,6115 Wall Street,12071853
+Bangor,US,18013-9656,False,PA,66 Peter Jacob Dr,36516632
+Redwood City,US,94064-7207,False,CA,855 Jefferson Ave,156004110
+Erie,US,16505-4938,False,PA,1823 W 8th St,20454564
+Columbus,US,43232-6805,False,OH,1905 Woodette Rd,53610674
+Henderson,US,89012-2480,False,NV,1088 Las Palmas Entrada Ave,30435436
+Chesterfield,US,23832,False,VA,5701 Kings Grove Drive,16458868
+Denison,US,75020-3535,False,TX,114 S Imperial Dr,165561137
+SAN FRANCISCO,US,94107,False,CA,2 TOWNSEND ST NUM 1-0707 ,51207958
+Hemet,US,92545,False,CA,1423 rabbit view way,100073423
+Grimes,US,50111-2119,False,IA,705 W 1st St,188296388
+Tamarac,US,33319,False,FL,4905 NW 42nd Ave,160628107
+Hampton,US,30228,False,GA,75 david rd hampton ga 30228,3851752
+Jenison,US,49428-9738,False,MI,7258 Pete Ave,218725400
+Waldorf,US,20603-3706,False,MD,9132 Granite Ct,42441809
+Matthews,US,30818-1792,False,GA,9188 Campground Rd,238495307
+CHARLOTTE,US,28203,False,NC,425 WILCOX ST,31350603
+Seville,US,44273-9139,False,OH,122 Red Oak Dr,46893302
+San Gabriel,US,91776,False,CA,206 Sunset Ave,29646316
+Spring Valley,US,91977,True,CA,"9950 Campo Road, Suite 201 ",22255937
+Modesto,US,95358,False,CA,1537 Glenn Avenue,19566491
+San Diego,US,92104,False,CA,3050 University Ave ,156830071
+West Memphis,US,72301,False,AR,360 Garrison Ave,189046257
+Dallas,US,75229-6106,False,TX,10010 Coppedge Ln,28399395
+New York,US,10036,False,NY,15 W 47TH STE 402 ,15134289
+Bordentown,US,8505,False,NJ,23 Bank Street ,200956010
+Laguna Niguel,US,92677,False,CA,10 Aleria,153993167
+Bellmore,US,11710-3318,False,NY,210 Howell St,4787206
+San Jose,US,95113,True,CA,"75 E. Santa Clara St, 6th Floor ",157625010
+Milwaukee,US,53211-2459,False,WI,2709 E Shorewood Blvd,34231124
+Long Beach,US,90805-1941,False,CA,6755 Obispo Ave,154861096
+Urbandale,US,50322,False,IA,7402 Madison Avenue,199398485
+Mission Viejo,US,92691,False,CA,25712 Taladro Cir. Siute A,157793154
+Springville,US,93265-9680,False,CA,32128 Avenue 176,46148905
+Miami,US,33184-3041,False,FL,14114 SW 9th St,141866252
+Hammond,US,46324-2332,False,IN,1333 170th Pl,158456194
+Pineville,US,71360-6213,False,LA,2653 Joseph Ave,210981642
+Far Rockaway,US,11691,False,NY,1288 Central Ave ,1915727
+Katy,US,77449-7020,False,TX,3327 Rainshore Dr,41590376
+Kokomo,US,46901-7711,False,IN,2657 Wynterpointe Ct,29907564
+Lewiston,US,4240,False,ME,150 east ave,212824042
+Linton,US,47441,False,IN,620 D St NE,215805367
+Corona,US,92882-4740,False,CA,1505 Chalgrove Dr,17076174
+Carlsbad,US,92011,False,CA,6834 Pear Tree Drive,51180803
+SACRAMENTO,US,95832,False,CA,7708 Mary Lou Way,21831227
+Appleton,US,54915,False,WI,201 S Riverheath Way,238191897
+brooklyn,US,11211,False,NY,170 north 5th st,151216922
+Springville,US,14141-1043,False,NY,265 W Main St,168217372
+Manasquan,US,08736-3810,False,NJ,425 Euclid Ave,26860564
+Johnson City,US,37604-4440,True,TN,102 Clark St,193862933
+Dillsburg,US,17019,False,PA,7 Still Water Circle,179382092
+Broussard,US,70518,False,LA,101 Baltusrol Drive,207583912
+Houston,US,77067-1817,False,TX,11807 Quicksilver Ct,4097010
+Bronx,US,10455,False,NY,712 Fox Street,169360469
+Glendale,US,91201,False,CA,1419 W Kenneth Rd ,154781007
+Tampa,US,33629,False,FL,2406 s clark ave,159768305
+Butler,US,16001-9793,False,PA,121 Minson Ln,33615163
+San Jose,US,95125,True,CA,1531 Hamilton Ave.  ,19286150
+Davie,US,33331,False,FL,4981 Southwest 153rd Avenue,51597929
+Allen Park,US,48101-2310,False,MI,6578 Cortland Ave,4537147
+South Windsor,US,06074-6917,False,CT,6 Diggins Ct,10316299
+Pasadena,US,91104,False,CA,774 n. Lake Ave ,154795079
+South Holland,US,60473-1070,False,IL,15211 Wabash Ave,1778791
+Long Beach,US,90805-1039,False,CA,7105 N Atlantic Pl,52066072
+Virginia Beach,US,23455-2702,False,VA,4808 S Oliver Dr,189390274
+West Orange,US,7052,False,NJ,48 Rock Spring Road ,195005488
+New York,US,10014,False,NY,421 Hudson Street Apt 710,169554018
+Shade,US,45776,False,OH,2240 Gibbs Rd,237312683
+Nevada,US,50201,False,IA,811 7th Street,216691448
+San Francisco,US,94102,True,CA,25 Taylor Street ,248509382
+Kerrville,US,78029,False,TX,1343 Bandera Hwy,212451675
+Brooklyn,US,11211,True,NY,172 Jackson ,42822028
+Valparaiso,US,46383,False,IN,76 e us highway 6 lot#307,28500890
+New York,US,10012,False,NY,460 W Broadway Apt 3S #3,170654785
+Long Island City,US,11101,True,NY,5-49  Borden Avenue ,53359365
+Ontario,US,91761-4416,False,CA,805 Woodlawn St,21669736
+Woodbourne,US,12788-5422,False,NY,100 Pine Rd,170047352
+San Mateo,US,94401-3037,False,CA,1221 Beacon Ave,51287785
+South Palm Beach,US,33480,False,FL,3545 South Ocean Boulevard,3312337
+West Palm Beach,US,33404,False,FL,120 Sandal Lane,148726070
+Holiday,US,34690-6439,False,FL,5750 Melaleuca Dr,163489045
+Gaston,US,29053-8145,True,SC,505 Lawndale Dr,325408778
+North Port,US,34286-9398,False,FL,3174 Circleville St,43285996
+Marysville,US,98270,False,WA,7406 83rd dr ne,317126900
+Fairburn,US,30213,False,GA,6100 Capitol Knl,15355091
+Waukesha,US,53186,False,WI,456 W Main St #313,205623952
+Olean,US,14760,False,NY,1020 North Union Street ,28163977
+Brooklyn,US,11206-5365,False,NY,54 Noll St,224674771
+North Royalton,US,44133,False,OH,9361 Royal Valley Drive,42816417
+Arlington,US,22201-2224,False,VA,819 N Kenmore St,241012443
+Marrero,US,70072,False,LA,50 Asphodel Dr,189103784
+homestead,US,33032,False,FL,11800 sw 272 terr,39769056
+laurel,US,47024,False,IN,243 w Lafayette st,213207377
+Gallatin,US,37066-5829,False,TN,1113 Lake Rise Pl,7074624
+Oswego,US,13126,False,NY,119 East 8th Street,170377926
+Del Mar,US,92014,False,CA,423 Luzon Avenue,156740955
+New Orleans,US,70119-2927,False,LA,3443 Esplanade Ave,203538407
+San Diego,US,92130,False,CA,3830 Valley Centre Dr Ste 705 PMB 141 ,223390422
+Midvale,US,84047-5059,True,UT,7650 S Euro Dr Apt C105,251653367
+Gig Harbor,US,98335-1955,False,WA,7302 Soundview Dr,3171157
+Seattle,US,98166,False,WA,633 SW 175th St,153375577
+West Hills,US,91307-2816,False,CA,6643 Franrivers Ave,53005439
+Sacramento,US,95829-1451,False,CA,7857 Kelvedon Way,11033400
+Union City,US,94587-1444,False,CA,33300 Mission Blvd,204658941
+New York,US,10010,False,NY,20 West 22nd St Suite 906,169559162
+Hutchinson,US,67501,False,KS,227 E 4th Ave,215450710
+Summerville,US,29483-8052,False,SC,710 Hemingway Cir,142581943
+Miami,US,33165-3429,False,FL,3622 SW 112th Pl,26225761
+Manitowoc,US,54220-4849,False,WI,2301 Washington St,152052769
+Los Angeles,US,90024,False,CA,1701 Selby Avenue,154578150
+Hyannis,US,02601-2624,False,MA,3 General Patton Dr,7748533
+Pompton Plains,US,7444,False,NJ,913 Route 23,200972373
+Mahopac,US,10541,False,NY,1013 ROUTE 6  ,53874288
+Santa Monica,US,90405,True,CA,"212 Marine St, Suite 100 ",155017701
+Apopka,US,32703-2609,False,FL,857 La Gran Via Ln,30838415
+springfield,US,1109,False,MA,49 newhall street,10562867
+Yorkville,US,60560-4746,False,IL,1162 Midnight Pl,220048495
+Columbia,US,29212-2013,False,SC,1913 Shadowood Dr,146250128
+Rocklin,US,95765,False,CA,6526 Lonetree Blvd Ste 100 ,30544946
+Minneapolis,US,55423,False,MN,7601 Knox Avenue South,193848622
+new cstle,US,19720,False,DE,160 cross ave,2792846
+Placerville,US,95667-6416,False,CA,3141 Benham Ct,156557932
+Shawnee,US,66226-3118,False,KS,22614 W 64th Ter,213711671
+Temecula,US,92590,True,CA,28410 Old Town Front St #111 ,156501194
+Avon,US,46123,False,IN,8610 Black Stone Crossing,200695064
+Worthington,US,43085,False,OH,475 Alta View Village Ct,182863145
+Camden,US,38320,False,TN,1455 Oakdale Rd,243175847
+Hollis,US,11423,False,NY,18603 Jamaica ave,54647969
+Collegeville,US,19426-3441,False,PA,57 Dorchester Rd,178767254
+Matawan,US,07747-9651,False,NJ,1 Grenoble Ct,48435722
+Davenport,US,33896,False,FL,417 Knightsbridge circle,16844487
+Charlotte,US,28214-7153,False,NC,1339 Jordans Pond Ln,18005039
+Glen Allen,US,23059,False,VA,512 Winterhawk Pl,251487811
+San Diego,US,92126,True,CA,10262 Kaiser Place ,46151835
+Panama City Beach,US,32413-4679,False,FL,229 Sand Oak Blvd,186111404
+Hancocks Bridge,US,08038-9990,False,NJ,500 Locust Island Rd,32486164
+Parker,US,80134,False,CO,6732 Hillpark Ave,141864185
+Brooklyn,US,11215-8700,False,NY,257 15th St,168231786
+Tecumseh,US,49286-1344,False,MI,315 N Union St,172145980
+Burleson,US,76028,False,TX,2225 Etta Ln,33755468
+Vineland,US,8360,True,NJ,547 E Landis Ave Suite D ,42455833
+Baxley,US,31513,True,GA,1329 Hatch Parkway North,238409731
+Aromas,US,95004,False,CA,243 B Aromas Rd.,156717057
+Mineral Wells,US,76067,False,TX,24 Cliff Drive,141170254
+Gilberts,US,60136-8002,False,IL,134 Jackson St,31451160
+Jenkintown,US,19046-4213,False,PA,31 N Central Ave,178735290
+Echo Farms,US,28412,False,NC,308 Lennox Place,23646553
+Brooklyn,US,11231-2823,False,NY,113 President St,168415635
+Dubuque,US,52001,False,IA,3138 Arbor Oaks Dr,200618495
+Cincinnati,US,45244-2364,False,OH,451 Auxier Dr,183555804
+San Francisco,US,94107,True,CA,414 Brannan St ,51309196
+tavares,US,32778,False,FL,14337 Lake Junietta dr,7846138
+Orlando,US,32819-4048,False,FL,5560 Shore Ct,146925872
+New Castle,US,16101-1619,False,PA,120 S Lee Ave,213749560
+Greencastle,US,17225-9145,False,PA,3223 Barr Rd,215917773
+Somerville,US,8876,False,NJ,216 North Bridge Street,196575349
+Sparks,US,89436-7480,False,NV,3047 Bandera Ave,8122972
+Flushing,US,11367,False,NY,144-22 76th Rd ,169800840
+Maplewood,US,55117,False,MN,2086 Edgerton St,201491856
+Costa Mesa,US,92626-7986,False,CA,2915 Red Hill Ave Ste F204,157765125
+Portland,US,97221-3745,False,OR,4124 SW Tunnelwood St,186995001
+Ocala,US,34472,False,FL,10 Banyan Trak,1455044
+Houston,US,77005,False,TX,2726 Bissonnet Street,41679286
+West Palm Beach,US,33411-6401,False,FL,3163 Osprey Ln,10724842
+Louisville,US,40211-3116,False,KY,4515 Brewster Ave,144939840
+Sheridan,US,97378-9618,False,OR,25395 SW Graves Rd,194204300
+Sanford,US,32771-6740,False,FL,354 Willowbay Ridge St,19310122
+Saint Louis,US,63144-1027,False,MO,78 Whitehall Ct,42471916
+Athens,US,12015-1322,False,NY,78 2nd St,45595405
+San Marcos,US,92069,False,CA,711 Center Dr Ste 105 Unit 352 ,158089921
+Brooklyn,US,11217,False,NY,138 Prospect Place ,154207839
+San Antonio,US,78259-2275,False,TX,4415 Nugget Peak,36347458
+Spring Mills,US,16875-8327,False,PA,137 Spruce Ln,215787550
+Port Saint Lucie,US,34983,False,FL,1225 Sw Curry Street,11543567
+Findlay,US,45840-8893,False,OH,7759 E Point Dr,209597434
+Harleysville,US,19438,False,PA,274 Morris Road,178783639
+Towson,US,21286,False,MD,1544 Dellsway Rd,45107718
+San Antonio,US,78217-1459,False,TX,13923 Woodbreeze St,47360411
+Chicago Heights,US,60411-3207,False,IL,339 W 17th St,19217398
+Remer,US,56672,False,MN,5382 108th ST NE,212730487
+Hammond,US,46327-1315,False,IN,4327 Clark Ave,158495189
+Springfield,US,45503-6132,False,OH,1115 Cheyenne Ave,182781392
+Morrisville,US,19067,False,PA,64 Fairview Ave,47172157
+Brooklyn,US,11229-4901,False,NY,2121 E 24th St,48839096
+Oceanside,US,92056,True,CA,4055 Oceanside Blvd Ste C ,156684385
+Anaheim,US,92806,False,CA,1737 N Bates Cir,20571002
+San Jose,US,95138,False,CA,855 Embedded Way ,156914470
+Whittier,US,90606,False,CA,7951 Crowndale ave,147643083
+Portage,US,46368-2225,False,IN,6351 Venus Ave,13843293
+New City,US,10956,False,NY,3 Bontecou Lane,46834908
+Verona,US,15147-1617,False,PA,8010 Chaske St,3612682
+Pearland,US,77584-5101,False,TX,3122 Springdale Dr,41517728
+Bear,US,19701-3002,False,DE,705 Millcreek Ct,30828644
+Atoka,US,38004-7747,False,TN,515 Farmer Trl,44585817
+Philadelphia,US,19151-3620,False,PA,6617 Haverford Ave,24205308
+New York,US,10018,True,NY,336 W 37th St Suite 1060,168306445
+New York,US,10016,False,NY,"385 5th Ave, Suite 510 ",168044998
+Pittsburgh,US,15228-2566,False,PA,820 Fruithurst Dr,37335740
+North Little Rock,US,72118-3073,False,AR,1205 Nicole Dr,4800652
+Niles,US,60714-2742,False,IL,8049 N Prospect St,174915469
+Bristol,US,24202,False,VA,20497 Hoot Owl Rd,213111029
+Arlington,US,22209,False,VA,1121 Arlington boulevard,188396132
+Nashville,US,37216-4219,False,TN,2005 Upland Dr,13568192
+Houston,US,77084-6123,False,TX,3602 Rowlock Vine Dr,21581505
+Riverview,US,33579-9341,False,FL,12331 Ballentrae Forest Dr,252447331
+Irving,US,75060,False,TX,700 Al Piano,2232006
+Middletown,US,10940-6645,False,NY,336 Concord Ln,140859524
+cottontown,US,37048,False,TN,4614 highway 31 w,325955815
+Glendale,US,91205,False,CA,1523 Rock Glen Avenue #A,12851211
+Orlando,US,32825,True,FL,948 Mozart Dr,17810520
+Gravette,US,72736-8961,False,AR,11723 Leonard Rd,199573960
+Stratford,US,93266,False,CA,20375 Short St,208731520
+Englewood,US,45322,False,OH,6700 Rushleigh Road,41341507
+Bountiful,US,84010-4537,True,UT,350 E 1300 N,183705510
+Turlock,US,95382,False,CA,1862 Caprice Drive,43101032
+Lancaster,US,93536-6077,False,CA,2623 Macfarlane Dr,51919572
+San Diego,US,92102,True,CA,1413 Edgemont St ,156905572
+Spring,US,77386-4199,False,TX,27435 Shady Hills Landing Ln,238173847
+Marietta,US,30008-6084,False,GA,3527 Clare Cottage Trce SW,14159511
+Phoenix,US,85032-7205,False,AZ,3222 E Windrose Dr,18955770
+Sacramento,US,95831,False,CA,6140 Gloria Drive #6,143111110
+Springville,US,14141,False,NY,43 South Buffalo Street,20168494
+Dekalb,US,60115,False,IL,3236 napa ct,31460392
+Titusville,US,32780-8126,False,FL,164 Bonita St,142733282
+Pittsburgh,US,15236,False,PA,224 Melvin Drive,147876598
+Iselin,US,08830-1205,False,NJ,193 E Louis Pl,28967382
+Baltimore,US,21212-2935,False,MD,111 Churchwardens Rd,203793636
+Nashville,US,37207-3015,False,TN,3026 Hillside Rd,8740261
+San Jose,US,95127-1013,False,CA,3199 Kawalker Ln,142734415
+Black Mountain,US,28711,False,NC,2B BORDER STREET,186155824
+Shreveport,US,71104,False,LA,1326 Georgia St,194660043
+Hendersonville,US,28792-1148,False,NC,3137 Florida Dr,177099734
+Glens Falls,US,12801,False,NY,8 Maple Street Ste 2,152815597
+Rockville,US,20850-6001,False,MD,103 Pasture Side Pl,190706443
+Peoria,US,85345-8364,False,AZ,8610 N 91st Ave,159189911
+New York,US,10025,False,NY,204 West 108th Street,169587878
+Bessemer City,US,28016-5619,False,NC,5533 Harvest Hills Rd,177486212
+Corpus Christi,US,78415,False,TX,5038 Kasper St,166054748
+Wallingford,US,19086-6769,False,PA,1312 Putnam Blvd,144514844
+Mandeville,US,70448-1022,False,LA,1373 S Ridge Dr,190919284
+Traverse City,US,49685,False,MI,2620 North East Silver Lake Road,218405241
+Cliffside Park,US,7010,False,NJ,695 Palisade Avenue,201036378
+Madera,US,93637-8652,False,CA,1648 Camino Ln,21866567
+Chicago,US,60641-4229,False,IL,5111 W School St,53779878
+Galloway,US,8205,False,NJ,325 E Jimmie Leeds Rd #119,156052175
+Troy,US,12180,True,NY,1520 6th Avenue Suite 102,209197923
+Wolcott,US,6716,False,CT,109 Allentown Rd,196464612
+Saint Petersburg,US,33716-1204,False,FL,540 Carillon Pkwy,155554162
+South Amboy,US,08879-2050,False,NJ,14 Singleton St,2676756
+Kansas City,US,66101-3416,False,KS,730 Broadview St,149016896
+Arlington,US,76018,False,TX,1919 Roselle CT,148922119
+Six Mile,US,29682,False,SC,1739 Crowe Creek Rd,192978079
+Houston,US,77043-4615,False,TX,11426 Pecan Creek Dr,8506483
+Lynchburg,US,24503-4103,False,VA,115 Huron Ave,214290617
+MIDLAND,US,79705-6122,False,TX,2603 CULVER DR,8554534
+Bronx,US,10455-1391,False,NY,700 Brook Ave,248934061
+Paso Robles,US,93446,False,CA,6142 Merlot Lane,46137584
+State College,US,16801-7299,False,PA,250 Meadowsweet Dr,212626062
+Rogers,US,72756,False,AR,708 Prairie Creek Dr,54408959
+Tulsa,US,74136,False,OK,2640 E 65th Pl,142958869
+Clermont,US,34715,False,FL,557 Bellflower Way,252247910
+Lubbock,US,79411-1517,False,TX,2009 29th St,25098990
+Graham,US,27253-8248,False,NC,2344 Yellow Pine Dr,48141953
+Victoria,US,77904,False,TX,220 kirkwall st,211220305
+Saint Charles,US,63303,False,MO,1375 Summergate Parkway,149541234
+Fort Walton Beach,US,32547,False,FL,2 Tooke Street,161155644
+New York,US,10009,True,NY,627 East 6th Street ,168649489
+Providence,US,02908-2107,False,RI,691 Academy Ave,13567772
+Brooklyn,US,11249,False,NY,109 S 5th St ,168224174
+Grosse Pointe Park,US,48230,False,MI,535 Lakepointe Street,22011308
+Belgrade,US,59715,False,MT,401 bridger view,218019647
+Fort Lauderdale,US,33316-3832,False,FL,2200 S Ocean Ln Apt 2105,160656224
+Fort Worth,US,76131,False,TX,9905 Amosite Dr.,324031819
+Venice,US,90291-3518,False,CA,1099 Nowita Pl,154535968
+Kingston,US,12401,False,NY,149 Hurley Ave ,170062357
+Dunn,US,28334,False,NC,200 Delano Street,38641082
+New York,US,10028,False,NY,1497 3 avenue apt 1B,168183559
+Auburn,US,98001-9403,False,WA,37653 49th Ave S,185037696
+Homestead,US,33033,False,FL,29655 SW 166th Ct,46338667
+New Windsor,US,21776-9725,False,MD,813 S Springdale Rd,35009853
+Stillwater,US,55082,False,MN,14595 57th St N,188418790
+Mountain View,US,94041,False,CA,232 Shumway Ln ,249331064
+Port Chester,US,10573,True,NY,181 Westchester Avenue Suite 101S,144306626
+South Bound Brook,US,08880-1401,True,NJ,3 Barber Blvd,37846560
+montgomery village,US,20886,False,MD,20331 gentle way,29543912
+Secaucus,US,7094,False,NJ,323 Harmon Cove Tower,200967956
+Oakland,US,94606-1151,False,CA,481 Stow Ave,151782788
+Thomasville,US,27360,False,NC,573 Tob Hilton Rd,176490114
+Gilbert,US,85298,False,AZ,2020 e lindrick dr,217531462
+Chagrin Falls,US,44023,False,OH,9680 Crackel Road,183042843
+Fort Lauderdale,US,33316-1114,False,FL,515 SE 9th St,49416130
